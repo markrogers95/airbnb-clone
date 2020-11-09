@@ -12,6 +12,7 @@
     padding-right: 50px;
     padding-bottom: 40px;
     width: 300px;
+    border-radius: 0px 0px 10px 0px;
 }
 
 .banner-info > button {
