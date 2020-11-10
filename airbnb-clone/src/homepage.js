@@ -6,7 +6,6 @@ import './homepage.css';
 function Homepage() {
     return (
         <div className='homepage'>
-            <p>Homepage</p>
             <Banner/>
         </div>
     )
