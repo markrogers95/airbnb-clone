@@ -1,24 +1,16 @@
 import './App.css';
 import Homepage from './homepage';
-import Header from './header.js';
+import Header from './header';
+import Footer from './footer';
 
 function App() {
   return (
     <div className="app">
       <header className="App-header">
+        
         <Header/>
         <Homepage/>
-        {/* HOMEPAGE */}
-          
-            {/* HEADER */}
-
-            {/* BANNER */}
-            
-              {/* SEARCH*/}
-
-            {/* CARDS */}
-
-            {/* FOOTER*/}
+        <Footer/>
         
         {/* SEARCHPAGE*/}
 
